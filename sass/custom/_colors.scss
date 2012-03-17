@@ -2,6 +2,19 @@
 // To give it a try, uncomment some of the lines below rebuild your blog, and see how it works.
 // If you need a handy color picker try http://hslpicker.com
 
+//$noise-bg: image-url('square_bg.png') top left;
+//$nav-bg-front: image-url('square_bg.png');
+//$footer-bg-front: image-url('square_bg.png');
+
+// Shinto temple (Colour Lovers)
+$header-bg: #181818;
+$nav-bg: #A8A890;
+$sidebar-bg: #D8D8C0;
+
+$footer-bg: $nav-bg;
+$nav-bg-back: $nav-bg;
+$footer-bg-back: $nav-bg;
+
 //$header-bg: #263347;
 //$subtitle-color: lighten($header-bg, 58);
 //$nav-bg: desaturate(lighten(#8fc17a, 18), 5);
@@ -13,7 +26,6 @@
 //$footer-bg: #ccc !default;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
-
 
 /* To use the light Solarized highlighting theme uncomment the following line */
 //$solarized: light;
