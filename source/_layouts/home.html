@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div>
+<article role="article">
+  {{ content }}
+</article>
+</div>
+{% unless page.sidebar == false %}
+<aside class="sidebar">
+  {% if site.home_asides.size %}
+    {% include_array home_asides %}
+  {% else %}
+    {% include_array default_asides %}
+  {% endif %}
+</aside>
+{% endunless %}
