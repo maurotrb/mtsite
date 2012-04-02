@@ -48,10 +48,10 @@ Here is the blurb of the book:
 > Senigallia cemetery, presented through four visual themes: colombarium, gates,
 > flowers and plants, decorations. Parallel texts: English and Italian.
 
-You can download
-[here (PDF 8.5MB)](/downloads/documents/mt-sofobomo11.pdf "Senigallia Cemetery Book - Web version")
-the web version of the book and you can shop for the printed version at
-[Blurb.com](http://www.blurb.com/bookstore/detail/2475140 "Senigallia Cemetery Book at Blurb").
+You can download the
+[web version of the book (PDF 7.5MB)](/downloads/documents/mt-sofobomo11.pdf "Senigallia Cemetery Book - Web version")
+or you can shop for the
+[printed version at Blurb.com](http://www.blurb.com/bookstore/detail/2475140 "Senigallia Cemetery Book at Blurb").
 
 The photos selected for the book are viewable on
 [flickr](http://www.flickr.com/photos/maurot/sets/72157627502290161/ "Senigallia Cemetery photos on flickr")
