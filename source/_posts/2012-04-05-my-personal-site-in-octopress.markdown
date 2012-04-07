@@ -28,7 +28,7 @@ I concluded that the best choice would have been a static site generator.
 Moreover, I could have fun learning how to use one.
 
 I searched and evaluated some generators and I finally chose [Octopress](http://octopress.org).
-The main reason? It's simplicity.
+The main reason? Its simplicity.
 
 {% blockquote %}
 Octopress is a framework designed by Brandon Mathis for Jekyll, the blog aware static site generator powering Github Pages. To start blogging with Jekyll, you have to write your own HTML templates, CSS, Javascripts and set up your configuration. But with Octopress All of that is already taken care of. Simply clone or fork Octopress, install dependencies and the theme, and you’re set.
