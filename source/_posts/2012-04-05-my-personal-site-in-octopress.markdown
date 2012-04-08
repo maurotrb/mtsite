@@ -3,7 +3,7 @@ layout: post
 title: "My Personal Site in Octopress"
 date: 2012-04-05 23:32
 comments: true
-categories: blogging
+categories: [Blogging]
 ---
 Some days ago I published this web site. Now I want to share
 some information on why and how I made it.

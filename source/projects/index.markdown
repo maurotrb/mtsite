@@ -11,27 +11,27 @@ Project Euler Solutions
 Solution to Project Euler problems with Literate Haskell.
 
 Source files are available on
-[github](https://github.com/maurotrb/mt-euler "mt-euler on github")
+[GitHub](https://github.com/maurotrb/mt-euler "mt-euler on github")
 and on
-[bitbucket](https://bitbucket.org/maurotrb/mt-euler "mt-euler on bitbucket").
+[Bitbucket](https://bitbucket.org/maurotrb/mt-euler "mt-euler on bitbucket").
 
 Haskell exercises
 -----------------
 Exercises made to learn Haskell programming language.
 
 Source files are available on
-[github](https://github.com/maurotrb/hs-exercises "hs-exercises on github")
+[GitHub](https://github.com/maurotrb/hs-exercises "hs-exercises on github")
 and on
-[bitbucket](https://bitbucket.org/maurotrb/hs-exercises "hs-exercises on bitbucket").
+[Bitbucket](https://bitbucket.org/maurotrb/hs-exercises "hs-exercises on bitbucket").
 
 Photos for Web
 --------------
 A set of rake tasks to prepare photos for the web using exiftool and Imagemagick.
 
 Source files are available on
-[github](https://github.com/maurotrb/photos4web "photos4web on github")
+[GitHub](https://github.com/maurotrb/photos4web "photos4web on github")
 and on
-[bitbucket](https://bitbucket.org/maurotrb/photos4web "photos4web on bitbucket").
+[Bitbucket](https://bitbucket.org/maurotrb/photos4web "photos4web on bitbucket").
 
 SoFoBoMo 2011
 -------------
@@ -39,8 +39,9 @@ Photobook made with LaTeX and XeTeX for SoFoBoMo 2011 (unfortunately it was
 the last year of the contest).
 
 Here is the blurb of the book:
+
 > __Senigallia Cemetery. The Old Part.__
-> 
+>
 > Senigallia cemetery is a monumental cemetery that dates back to the second
 > half of the 19th century. It covers the slopes of one of the hills that
 > surround the town and walking trough its rows is of visual and historic
@@ -54,11 +55,11 @@ or you can shop for the
 [printed version at Blurb.com](http://www.blurb.com/bookstore/detail/2475140 "Senigallia Cemetery Book at Blurb").
 
 The photos selected for the book are viewable on
-[flickr](http://www.flickr.com/photos/maurot/sets/72157627502290161/ "Senigallia Cemetery photos on flickr")
+[Flickr](http://www.flickr.com/photos/maurot/sets/72157627502290161/ "Senigallia Cemetery photos on flickr")
 and on
 [Google+](https://plus.google.com/u/0/photos/100820707243557656600/albums/5649379085197453729 "Senigallia Cemetery photos on Google+").
 
 The LaTeX source files are available on
-[github](https://github.com/maurotrb/sofobomo2011 "SoFoBoMo2011 on github")
+[GitHub](https://github.com/maurotrb/sofobomo2011 "SoFoBoMo2011 on github")
 and on
-[bitbucket](https://bitbucket.org/maurotrb/sofobomo2011 "SoFoBoMo2011 on bitbucket").
+[Bitbucket](https://bitbucket.org/maurotrb/sofobomo2011 "SoFoBoMo2011 on bitbucket").

@@ -4,7 +4,7 @@ title: "The irony of our fixation on artificially created crises... [Quote]"
 date: 2011-06-28 16:11
 comments: true
 no_header: true
-categories: [quotes]
+categories: [Quotes]
 ---
 {% blockquote Laurence Tratt http://tratt.net/laurie/tech_articles/articles/creating_crises_where_there_arent_any Problems with Software 3: Creating Crises Where There Aren't Any %}
 The irony of our fixation on artificially created crises is that deep, long-term problems – which arguably should be considered crises – are ignored. The most important of these surely relates to security — too much of our software is susceptible to attack, and too few users understand how to use software in a way that minimises security risks.
