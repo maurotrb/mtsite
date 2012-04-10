@@ -8,6 +8,7 @@ categories: [Blogging]
 Some days ago I published this web site. Now I want to share
 some information on why and how I made it.
 <!-- more -->
+
 ## Why I made it
 I want to use a personal web site as:
 
