@@ -7,5 +7,5 @@ no_header: true
 categories: [Quotes]
 ---
 {% blockquote Martin Fowler http://martinfowler.com/bliki/PackageCustomization.html PackageCustomization %}
-if the business process you are supporting is part of your competitive advantage you should build custom software, if not you should buy a package and adjust your business process to fit the way the package works.
+If the business process you are supporting is part of your competitive advantage you should build custom software, if not you should buy a package and adjust your business process to fit the way the package works.
 {% endblockquote %}
