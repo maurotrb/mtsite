@@ -21,7 +21,7 @@ Please, take a look around my site, keep up to date with my [blog](/blog),
 stop by my [personal projects](/projects),
 or [learn more](/about) about this site.
 
-Get in touch at <MauroTaraborelli@gmail.com> or find me on:
+Get in touch at <mauro@maurotaraborelli.com> or find me on:
 
 __[LINKED-IN](http://www.linkedin.com/in/maurotaraborelli "Mauro Taraborelli on LinkedIn")__ |
 __[TWITTER](https://twitter.com/#!/maurotrb "Mauro Taraborelli on Twitter")__ |
