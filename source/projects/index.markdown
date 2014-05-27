@@ -6,6 +6,99 @@ sharing: false
 footer: true
 ---
 
+Data Analysis and Statistical Inference Assignment
+--------------------------------------------------
+Project of [Getting and Cleaning Data course on Coursera](https://www.coursera.org/course/getdata), May 2014 edition.
+
+The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
+The goal is to prepare tidy data that can be used for later analysis.
+
+Source files are available on
+[GitHub](https://github.com/maurotrb/getting-cleaning-data-2014-project "getting-cleaning-data-2014-project on github")
+and on
+[Bitbucket](https://bitbucket.org/maurotrb/getting-cleaning-data-2014-project "getting-cleaning-data-2014-project on bitbucket").
+
+Data Analysis and Statistical Inference Assignment
+--------------------------------------------------
+Project of [Data Analysis and Statistical Inference course on Coursera](https://www.coursera.org/course/statistics), February 2014 edition.
+
+The project studies the relationship between the highest degree earned by United
+States residents and their family income in constant dollars.
+
+Access to education and its funding is the subject of many discussions on social
+mobility and redistribution of income. The study explores data from a long running
+social survey to verify one of the main topic of these discussions: if family
+income is related to education level.
+
+The study uses [General Social Survey (GSS)](http://www3.norc.org/gss+website/)
+data for the year 2012.
+
+You can download the
+[analysis (PDF 90Kb)](/downloads/documents/mt-data-analysis-2014.pdf "Data Analysis and Statistical Inference Assignment PDF").
+
+Source files are available on
+[GitHub](https://github.com/maurotrb/data-analysis-statistical-inference-2014-project "data-analysis-statistical-inference-2014-project on github")
+and on
+[Bitbucket](https://bitbucket.org/maurotrb/data-analysis-statistical-inference-2014-project "data-analysis-statistical-inference-2014-project on bitbucket").
+
+Data Analysis Assignment - Project 2
+------------------------------------
+Second assignment of [Data Analysis course on Coursera](https://www.coursera.org/course/dataanalysis),
+November 2013 edition.
+
+The data for this assignment are the Samsung activity data available from the
+[course website](https://spark-public.s3.amazonaws.com/dataanalysis/samsungData.rda).
+These data are slightly processed to make them easier to load into R.
+
+You can also find the raw data here:
+
+<http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
+
+The task is to build a function that predicts what activity a subject is performing
+based on the quantitative measurements from the Samsung phone. For this analysis
+your training set must include the data from subjects 1, 3, 5, and 6.
+But you may use more subjects data to train if you wish. Your test set is the data
+from subjects 27, 28, 29, and 30, but you may use more data to test. Be careful
+that your training/test sets do not overlap.
+
+You can download the
+[analysis (PDF 40Kb)](/downloads/documents/mt-data-analysis-2013-p2.pdf "Data Analysis Assignment Project 2 PDF")
+and the
+[figure (PNG 61Kb)](/downloads/documents/mt-data-analysis-2013-p2-figure.png "Data Analysis Assignment Project 2 Figure PNG").
+
+Source files are available on
+[GitHub](https://github.com/maurotrb/data-analysis-2013-project2 "data-analysis-2013-project2 on github")
+and on
+[Bitbucket](https://bitbucket.org/maurotrb/data-analysis-2013-project2 "data-analysis-2013-project2 on bitbucket").
+
+Data Analysis Assignment - Project 1
+------------------------------------
+First assignement of [Data Analysis course on Coursera](https://www.coursera.org/course/dataanalysis),
+November 2013 edition.
+
+The data consist of a sample of 2,500 peer-to-peer loans issued through the
+[Lending Club](https://www.lendingclub.com/home.action).
+The interest rate of these loans is determined by the Lending Club on the basis
+of characteristics of the person asking for the loan such as their employment history,
+credit history, and creditworthiness scores.
+
+The purpose of the analysis is to identify and quantify associations between
+the interest rate of the loan and the other variables in the data set.
+In particular, you should consider whether any of these variables have an important
+association with interest rate after taking into account the applicant's FICO score.
+For example, if two people have the same FICO score, can the other variables explain
+a difference in interest rate between them?
+
+You can download the
+[analysis (PDF 31Kb)](/downloads/documents/mt-data-analysis-2013-p1.pdf "Data Analysis Assignment Project 1 PDF")
+and the
+[figure (PDF 238Kb)](/downloads/documents/mt-data-analysis-2013-p1-figure.pdf "Data Analysis Assignment Project 1 Figure PDF").
+
+Source files are available on
+[GitHub](https://github.com/maurotrb/data-analysis-2013-project1 "data-analysis-2013-project1 on github")
+and on
+[Bitbucket](https://bitbucket.org/maurotrb/data-analysis-2013-project1 "data-analysis-2013-project1 on bitbucket").
+
 HaskDeep
 --------
 [HaskDeep](http://hackage.haskell.org/package/haskdeep "haskdeep on hackagedb")
