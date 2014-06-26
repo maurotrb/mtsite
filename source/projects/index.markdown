@@ -6,8 +6,25 @@ sharing: false
 footer: true
 ---
 
-Data Analysis and Statistical Inference Assignment
---------------------------------------------------
+Reproducible Research Assignment - Project 2
+--------------------------------------------
+Project of [Reproducible Research course on Coursera](https://www.coursera.org/course/repdata), June 2014 edition.
+
+This project involves exploring the U.S. National Oceanic and Atmospheric Administration's
+(NOAA) storm database to answer the following questions:
+
+1. Across the United States, which types of weather events are most harmful with respect to population health?
+2. Across the United States, which types of weather events have the greatest economic consequences?
+
+The resulting report has been published on [RPubs](http://rpubs.com/maurotrb/20463).
+
+Source files are available on
+[GitHub](https://github.com/maurotrb/RepData_PeerAssessment2.git "RepData_PeerAssessment2 on github")
+and on
+[Bitbucket](https://maurotrb@bitbucket.org/maurotrb/repdata_peerassessment2.git "RepData_PeerAssessment2 on bitbucket").
+
+Getting and Cleaning Data Assignment
+------------------------------------
 Project of [Getting and Cleaning Data course on Coursera](https://www.coursera.org/course/getdata), May 2014 edition.
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
