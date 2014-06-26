@@ -60,7 +60,7 @@ home_asides: [ asides/recent_posts.html, asides/pinboard.html, asides/github.htm
 
 # Github repositories
 github_user: maurotrb
-github_repo_count: 5
+github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -89,7 +89,7 @@ googleplus_hidden: false
 
 # Pinboard
 pinboard_user: maurotrb
-pinboard_count: 5
+pinboard_count: 3
 
 # Delicious
 delicious_user:
