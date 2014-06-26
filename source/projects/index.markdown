@@ -21,7 +21,7 @@ The resulting report has been published on [RPubs](http://rpubs.com/maurotrb/204
 Source files are available on
 [GitHub](https://github.com/maurotrb/RepData_PeerAssessment2.git "RepData_PeerAssessment2 on github")
 and on
-[Bitbucket](https://maurotrb@bitbucket.org/maurotrb/repdata_peerassessment2.git "RepData_PeerAssessment2 on bitbucket").
+[Bitbucket](https://bitbucket.org/maurotrb/repdata_peerassessment2.git "RepData_PeerAssessment2 on bitbucket").
 
 Getting and Cleaning Data Assignment
 ------------------------------------
