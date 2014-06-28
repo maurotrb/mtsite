@@ -6,8 +6,10 @@ sharing: false
 footer: true
 ---
 
-Reproducible Research Assignment - Project 2
---------------------------------------------
+## Data Science
+
+### Reproducible Research Assignment - Project 2
+
 Project of [Reproducible Research course on Coursera](https://www.coursera.org/course/repdata), June 2014 edition.
 
 This project involves exploring the U.S. National Oceanic and Atmospheric Administration's
@@ -23,8 +25,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/repdata_peerassessment2.git "RepData_PeerAssessment2 on bitbucket").
 
-Getting and Cleaning Data Assignment
-------------------------------------
+### Getting and Cleaning Data Assignment
+
 Project of [Getting and Cleaning Data course on Coursera](https://www.coursera.org/course/getdata), May 2014 edition.
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set.
@@ -35,8 +37,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/getting-cleaning-data-2014-project "getting-cleaning-data-2014-project on bitbucket").
 
-Data Analysis and Statistical Inference Assignment
---------------------------------------------------
+### Data Analysis and Statistical Inference Assignment
+
 Project of [Data Analysis and Statistical Inference course on Coursera](https://www.coursera.org/course/statistics), February 2014 edition.
 
 The project studies the relationship between the highest degree earned by United
@@ -58,8 +60,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/data-analysis-statistical-inference-2014-project "data-analysis-statistical-inference-2014-project on bitbucket").
 
-Data Analysis Assignment - Project 2
-------------------------------------
+### Data Analysis Assignment - Project 2
+
 Second assignment of [Data Analysis course on Coursera](https://www.coursera.org/course/dataanalysis),
 November 2013 edition.
 
@@ -88,8 +90,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/data-analysis-2013-project2 "data-analysis-2013-project2 on bitbucket").
 
-Data Analysis Assignment - Project 1
-------------------------------------
+### Data Analysis Assignment - Project 1
+
 First assignement of [Data Analysis course on Coursera](https://www.coursera.org/course/dataanalysis),
 November 2013 edition.
 
@@ -116,8 +118,10 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/data-analysis-2013-project1 "data-analysis-2013-project1 on bitbucket").
 
-HaskDeep
---------
+## Haskell
+
+### HaskDeep
+
 [HaskDeep](http://hackage.haskell.org/package/haskdeep "haskdeep on hackagedb")
 is a command line tool, written in Haskell, that computes file hashes traversing
 recursively through a directory structure.
@@ -129,8 +133,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/haskdeep "haskdeep on bitbucket").
 
-Project Euler Solutions
------------------------
+### Project Euler Solutions
+
 Solution to Project Euler problems with Literate Haskell.
 
 Source files are available on
@@ -138,8 +142,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/mt-euler "mt-euler on bitbucket").
 
-Haskell exercises
------------------
+### Haskell exercises
+
 Exercises made to learn Haskell programming language.
 
 Source files are available on
@@ -147,8 +151,10 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/hs-exercises "hs-exercises on bitbucket").
 
-Photos for Web
---------------
+## Photography
+
+### Photos for Web
+
 A set of rake tasks to prepare photos for the web using exiftool and Imagemagick.
 
 Source files are available on
@@ -156,8 +162,8 @@ Source files are available on
 and on
 [Bitbucket](https://bitbucket.org/maurotrb/photos4web "photos4web on bitbucket").
 
-SoFoBoMo 2011
--------------
+### SoFoBoMo 2011
+
 Photobook made with LaTeX and XeTeX for SoFoBoMo 2011 (unfortunately it was
 the last year of the contest).
 
