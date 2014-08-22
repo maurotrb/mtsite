@@ -9,7 +9,7 @@ categories: [Writing, MOOC]
 ## A MOOC on writing from Mt. San Jacinto College
 
 From June to July 2014, I followed [Crafting an Effective Writer](https://www.coursera.org/course/basicwriting)
-a [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course) from Mt.San Jacinto College.
+a [MOOC](http://en.wikipedia.org/wiki/Massive_open_online_course) from Mt. San Jacinto College.
 The course goal is "to become an effective builder of sentences using the basic
 tools of grammar, punctuation, and writing". It is designed for American high school
 and college students, but even for global community members. I recommend it to
@@ -35,7 +35,7 @@ Every week you follow a study calendar, that helps you to calibrate the effort.
 In particular, you have to:
 
 * watch a few videos, where you are exposed to the key concepts of the week in a clear and concise manner
-* read some reference materials in the course wiki; the material is well organized
+* read some reference materials in the course wiki; the material is very well organized
 * write a personal journal; not compulsory, but recommended as it will help you with the assignments (see later)
 * take a quiz; this one counts toward the final grade
 * submit a peer reviewed assignment; even this one counts toward the final grade
@@ -59,9 +59,9 @@ First, it improved my knowledge of the English parts of speech and grammar, with
 and structured explanations and lot of examples. There was even a lesson on the writing process,
 with the steps to follow to write concise and well formed paragraphs.
 
-Second, it forced me to apply what I was learning with the writing assignments.
-You understand the concepts deeply by struggling to write following the directions
-of the assignement and using the rules explained in the lessons.
+Second, it forced me to apply what I was learning. Struggling to write,
+while following the instructions of the assignment and using the rules explained
+in the lessons, made me understand the concepts better.
 If you want to learn how to write, you have to write. There is no way around it.
 
 For these two reasons, I strongly recommend to follow the course.
@@ -71,11 +71,11 @@ at high school-college level. To benefit from the course you have to have a basi
 of the English grammar and a fairly decent vocabulary. Otherwise you will struggle a lot
 with the assignments. But I don't want to discourage you: if you are in doubt about
 the prerequisites, follow the course and find out for yourself if it suits you.
-It a great course and it's free.
+It is a great course and it is free.
 
 ## Final Assignment: "Why I enjoy photography"
 
-I want to end with the paragraph I made for the final assignment, titled "Why I enjoy photography".
+Here it is the paragraph I made for the final assignment, titled "Why I enjoy photography".
 
 > I have been enjoying photography for nearly ten years. When you practice an activity for so long, it comes the time to reflect about the reasons of this sustained interest. Thinking about the "whys" can make your practice more conscious, and rekindle the enjoyment.
 > 
