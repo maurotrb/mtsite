@@ -76,7 +76,7 @@ I think it is an easy framework to use and its functionality to manage adaptive
 images is interesting for a portfolio site.
 
 ## What are the next steps?
-My plan are relatively simple. The first few steps of the project are:
+My plan is relatively simple. The first few steps of the project are:
 
 * setup a basic project structure on github with Hakyll and Foundation configured to generate a bare site (only home page)
 * prototype the web site with the main pages and navigation but without real photos

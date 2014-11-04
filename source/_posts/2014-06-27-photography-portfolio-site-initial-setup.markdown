@@ -8,7 +8,7 @@ categories: [Haskell, Hakyll, Foundation, Photography]
 
 This is the second post about the photography portfolio website project.
 If you want to find out more about the project, you could read the
-[first post](blog/2014/01/30/photography-portfolio-site-a-new-project/).
+[first post](/blog/2014/01/30/photography-portfolio-site-a-new-project/).
 In this post I will explain the initial setup of the project, and the creation
 of a bare home page for the site.
 
